@@ -40,6 +40,9 @@ let testv = Math.floor(Math.random()*101) // 0 ie 100 arası sayılar
 console.log(testv)
 let randomValues2 = Math.ceil(Math.random()*1001)  // 0 ile 1000 arası sayılar
 console.log(randomValues2)
+console.log("--------------------------------")
+let randomValues50 = Math.random(20)*100 //20 ila 100 arasında
+console.log(randomValues50)
 
 // Absolute value -- Kesin değer yani sayı - bir sayı olsa bile + değerine çevirir
 console.log(Math.abs(-10))

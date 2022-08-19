@@ -155,6 +155,7 @@ console.log(stringsss.endsWith("world"))
 
 console.log(stringsss.search("L")) // ilk eşleştiği indexi basar.
 
+console.log("__________________Regex")
 // MATCH 
 // REGEX Önemli
 let stringA = 'I love JavaScript. If you do not love JavaScript what else can you love.'
