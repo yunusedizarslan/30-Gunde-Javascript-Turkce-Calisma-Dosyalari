@@ -54,6 +54,7 @@ console.log(nameSurname==nameSurname2)
 
 let testData = ["TestData" , "Test Datas"]
 let testData2 = testData
+console.log(typeof(testData))
 console.log(testData==testData2)
 
 let objectList = {

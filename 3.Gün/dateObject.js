@@ -4,6 +4,9 @@
 const date = new Date() // yeni bir zaman objesi oluşturuyoruz
 /*  bu obje ile tarihleri çağıracağız */
 
+// let datess = new Date(2023,01, 00) // datess içine date in içine yazdığımız tarihi alıyor
+// console.log(datess)
+
 // .getFullYear()
 // .getMonth()
 // .getDate()
@@ -20,6 +23,13 @@ console.log(now.getDay()) // günlerde indexten dolayı 0 -6 arası
 console.log(now.getHours())
 console.log(now.getMinutes())
 console.log(now.getSeconds()) 
+
+
+
+
+//Ayın kaç gün olduğunu bulan kod
+//var ayKacCekti = new Date(2023, 08, 0).getDate();
+ //console.log(ayKacCekti)
 
 console.log("_____________")
 
